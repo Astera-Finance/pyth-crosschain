@@ -1,0 +1,5 @@
+- alias: REX33/USD
+  id: 583015352f5936e099fa7149d496ac087c5bfbfc386ce875be27dc4d69c2e023
+  time_difference: 86400 # 1 day
+  price_deviation: 0.5 # 0.5%
+  confidence_ratio: 100 # 100%
